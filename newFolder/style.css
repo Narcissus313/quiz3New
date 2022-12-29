@@ -1,0 +1,31 @@
+.main{
+    width: 500px;
+    background-color: rgb(204, 222, 222);
+    border: 1px solid black;
+    border-radius: 10px;
+    margin:auto;
+    padding: 20px;
+}
+
+.light-btn{
+    border-radius: 4px;
+    background-color: rgb(168, 243, 167);
+    margin: auto;
+    position: relative;
+    left: 800px;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+}
+
+.dark-btn{
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    margin: auto;
+    position: relative;
+        left: 550px;
+        cursor: pointer;
+    padding: 10px;
+    border: none;
+}

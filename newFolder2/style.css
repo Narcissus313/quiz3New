@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    border: 1px solid black;
+    width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.pro {
+    display: inline-block;
+    width: 80px;
+    height: 100%;
+    border: 1px solid rgb(164, 244, 164);
+    background-color: rgb(164, 244, 164);
+    float: left;
+}
+
+.btn{
+    padding: 10px;
+    border-radius: 4px;
+    border: none;
+    background-color: green;
+    position: relative;
+    left: 370px;
+    color: white;
+    cursor: pointer;
+}

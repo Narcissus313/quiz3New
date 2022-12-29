@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+}
+input{
+    width: 200px;
+}
+ul{
+    margin: auto;
+}
